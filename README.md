@@ -1,7 +1,7 @@
 # Raspberry-Python-Program-
 This is the python program I created for my final year Engineering project using a Raspberry pi controller.
 The main Objectives of this Program are as below :
-1. Controlling a Relay switchs based on the inputs of the user. 
+1. Controlling  Relay switch based on the inputs of the Infrared Sensor. 
 2. Scanning a QR code using the Pi camera and Zbar module.
 3. Writing the collected details to a MySQL Database
 
