@@ -19,4 +19,4 @@ The program is used to drive the whole process for my project. The Working of th
             
             -Scan QR code shown by the User and collect user id from it.
             
-            -Store the value of the count in the User's id in a Database if the id exists or create new row for the user id  store the                  value.
+            -Store the value of the count in the User's id in a Database if the id exists or create new row for the user id  store the value.
